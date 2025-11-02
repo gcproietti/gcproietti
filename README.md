@@ -1,4 +1,6 @@
-## Hi there, I'm Giacomo Proietti and I am a Master’s student in Electronic Engineering at Politecnico di Torino, specializing in Embedded Systems
+## Hi there, I'm Giacomo Proietti
+I am a Master’s student in Electronic Engineering at Politecnico di Torino, specializing in Embedded Systems
+## About Me
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gcproietti&show_icons=true&theme=radical)
 
