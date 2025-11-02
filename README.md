@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Giacomo Proietti and I am a Master’s student in Electronic Engineering at Politecnico di Torino, specializing in Embedded Systems
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical)
 
 <!--
 **gcproietti/gcproietti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
