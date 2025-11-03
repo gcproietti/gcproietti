@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Giacomo Proietti and I'm from a small town in the middle of the Italy<br><br>- 🔭I am a Master’s student in Electronic Engineering at @polito, specializing in Embedded Systems<br>- 📚 I'm currently learning RISCV, SystemC and VHDL<br>- ⚡ In my free time I watch movies</p>
+<p align="left">I'm Giacomo Proietti and I'm from a small town in the middle of the Italy<br><br>- 🔭I am a Master’s student in Electronic Engineering at @polito, specializing in Embedded Systems<br>- 📚 I'm currently learning RISCV, SystemC and VHDL<br>- ⚡ In my free time I watch movies<br><br>I have experience in:<br>- Embedded C programming for STM32 and Texas Instruments microcontrollers; <br>- Battery Management Systems for aerospace applications ‎‧₊˚✩ 🪐✩˚₊‧<br><br>I also took part in the Formula Student team, Unipg Racing Team, at my bachelor's university 🏎️🏆🏁</p>
 
 ###
 
