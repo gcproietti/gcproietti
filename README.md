@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hello world 👋 I'm Giacomo</h1>
+<h1 align="center">Giacomo Proietti</h1>
 
 ###
 
